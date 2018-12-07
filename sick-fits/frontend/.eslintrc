@@ -27,7 +27,7 @@
     "prefer-const": [
       "error",
       {
-        "destructuring": "all"
+        "destructuring": "any"
       }
     ],
     "arrow-body-style": [2, "as-needed"],
@@ -86,7 +86,7 @@
     "prettier/prettier": [
       "error",
       {
-        "trailingComma": "es5",
+        "trailingComma": "all",
         "singleQuote": true,
         "printWidth": 80
       }
