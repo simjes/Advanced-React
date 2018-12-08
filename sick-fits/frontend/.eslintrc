@@ -97,7 +97,8 @@
       {
         "aspects": ["invalidHref"]
       }
-    ]
+    ],
+    "linebreak-style": ["warn", "windows"]
   },
   "plugins": [
     // "html",
